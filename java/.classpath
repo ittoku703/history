@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="0_MadeInYamamoto"/>
+	<classpathentry kind="src" path="1_Nyuumon"/>
+	<classpathentry kind="src" path="2_Jissen"/>
+	<classpathentry kind="src" path="3_javaSwing_window"/>
+	<classpathentry kind="src" path="4_javaSwing_layout"/>
+	<classpathentry kind="src" path="5_javaSwing_Panel"/>
+	<classpathentry kind="src" path="6_javaSwing_Data"/>
+	<classpathentry kind="src" path="7_javaSwing_Graphics"/>
+	<classpathentry kind="src" path="Test"/>
+	<classpathentry kind="src" path="Text"/>
+	<classpathentry excluding="0_MadeInYamamoto/|1_Nyuumon/|2_Jissen/|3_javaSwing_window/|4_javaSwing_layout/|5_javaSwing_Panel/|6_javaSwing_Data/|7_javaSwing_Graphics/|Test/|Text/" kind="src" path=""/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
